@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A social interaction game for people with dementia and their friends and family. Through fun and laughter we create a feeling of equality and togetherness that helps to build up a new level of communication.
-datePublished: '2016-03-07T19:43:03.556Z'
-dateModified: '2016-03-07T19:42:28.302Z'
+datePublished: '2016-03-07T19:51:00.706Z'
+dateModified: '2016-03-07T19:43:08.853Z'
 title: Participy - Laughter is the best Medicine
 author: []
 sourcePath: _posts/2016-03-07-participy-laughter-is-the-best-medicine.md
